@@ -31,5 +31,13 @@ this should unzip the t2m.zip as a `t2m` folder at the top of the repo folder.
 ╰─❯ ln -s ../../text-to-motion/dataset/HumanML3D .
 ```
 
+## Problem
+
+```
+RuntimeError: "addmm_impl_cpu_" not implemented for 'Half'
+```
+
+Not sure how to fix it on Mac M2.
+
 # Set up dev container
 

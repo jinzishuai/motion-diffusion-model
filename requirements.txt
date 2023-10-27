@@ -9,3 +9,4 @@ spacy
 tqdm
 matplotlib==3.3.1
 smplx
+chumpy # needs fix in python-3.11: https://github.com/mattloper/chumpy/pull/52
